@@ -3,7 +3,7 @@
 		Eclipse 4.6
 		Java 1.8 or above
 		Selenium 3.0.1
-		Drivers
+		Drivers: https://chromedriver.storage.googleapis.com/2.25/chromedriver_win32.zip
 		Chrome Browser 54
 		Eclipse plugins for Git (optional)
 
@@ -11,8 +11,9 @@
 	
 	Using attached ZIP:
 		Download zip file attached to the email.
-		Extract all the java files to the local machine.
+		Extract the zip to the local machine.
 		Import the unzipped java project in eclipse.
+		Download and copy the chromedriver.exe to /drivers folder
 		Clean and build the project.
 		There should not be any errors.
 		In case of any errors check classpath configuration.
