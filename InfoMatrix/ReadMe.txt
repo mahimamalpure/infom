@@ -32,4 +32,6 @@
 				> Run as JUnit test
 				> It should start the test, launch browser and perform desired actions
 				> At the end of 2 tests, execution status can be seen in JUnit eclipse console
-				> Screenshots can be reviewed in \Screenshots folder
+				> Screenshots can be reviewed in /Screenshots folder
+
+4. For more details about framework, please refer to /FrameworkUnderstanding.docx.
