@@ -1,0 +1,34 @@
+1. Prerequisites:
+	Softwares:
+		Eclipse 4.6
+		Java 1.8 or above
+		Selenium 3.0.1
+		Drivers
+		Chrome Browser 54
+		Eclipse plugins for Git (optional)
+
+2. How to Setup environment:
+	
+	Using attached ZIP:
+		Download zip file attached to the email.
+		Extract all the java files to the local machine.
+		Import the unzipped java project in eclipse.
+		Clean and build the project.
+		There should not be any errors.
+		In case of any errors check classpath configuration.
+	
+	OR
+	
+	Using GIT repository:
+		Import GIT Project from https://github.com/mahimamalpure/infom
+		It should download the complete project
+		There should not be any errors.
+		In case of any errors check classpath configuration.
+			
+3. Run:
+		1. Using JUnit in Eclipse:
+				> Right click on Project
+				> Run as JUnit test
+				> It should start the test, launch browser and perform desired actions
+				> At the end of 2 tests, execution status can be seen in JUnit eclipse console
+				> Screenshots can be reviewed in \Screenshots folder
